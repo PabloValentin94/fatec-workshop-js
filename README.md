@@ -1,6 +1,6 @@
 # Fatec Jahu Workshop JS
 
-Corrija o código a abaixo.
+Corrija o código abaixo.
 
 ```js
 const x, y = 5
